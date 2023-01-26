@@ -1,0 +1,11 @@
+.CounterStoreResult {
+    width: 150px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: 16px;
+    display: inline-block;
+}
+.ResultPaper {
+  margin-left: 16px;
+  margin-right: 16px;
+}

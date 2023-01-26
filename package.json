@@ -1,0 +1,32 @@
+{
+  "name": "react16-redux-async-counter",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "jss": "9.5.0",
+    "react": "16.1.1",
+    "redux": "3.7.2",
+    "react-dom": "16.1.1",
+    "jss-global": "3.0.0",
+    "jss-nested": "6.0.1",
+    "material-ui": "1.0.0-beta.26",
+    "react-redux": "5.0.6",
+    "redux-thunk": "2.2.0",
+    "redux-logger": "3.0.6",
+    "jss-camel-case": "6.0.0",
+    "jss-props-sort": "6.0.0",
+    "typeface-roboto": "0.0.45",
+    "jss-default-unit": "8.0.2",
+    "material-ui-icons": "1.0.0-beta.17",
+    "jss-vendor-prefixer": "8.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
